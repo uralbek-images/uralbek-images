@@ -21,6 +21,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     font-weight: bold;
 }
 #logotip {
+    color: #0095b6;
     width: 110px;
     display: block;
     margin-top: -35px;
